@@ -7,3 +7,7 @@ Purely for educational and recreational purposes. For real world production plea
 ```console
 $ cargo run --release
 ```
+
+## References
+
+- https://en.wikipedia.org/wiki/Linked_list
